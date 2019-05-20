@@ -17,3 +17,7 @@
 [submodule "desscasa"]
 	path = desscasa
 	url = git@github.com:rocketgithub/desscasa.git
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:rocketgithub/kardex.git
+	branch = 11.0
