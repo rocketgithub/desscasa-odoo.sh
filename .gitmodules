@@ -21,3 +21,7 @@
 	path = kardex
 	url = git@github.com:rocketgithub/kardex.git
 	branch = 11.0
+[submodule "fel_guatefactura"]
+	path = fel_guatefactura
+	url = git@github.com:rocketgithub/fel_guatefactura.git
+	branch = master
