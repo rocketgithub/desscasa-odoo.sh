@@ -25,3 +25,6 @@
 	path = fel_guatefactura
 	url = git@github.com:rocketgithub/fel_guatefactura.git
 	branch = master
+[submodule "fel_gt"]
+	path = fel_gt
+	url = git@github.com:rocketgithub/fel_gt.git
